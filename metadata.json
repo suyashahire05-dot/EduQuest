@@ -1,0 +1,8 @@
+{
+  "name": "EduQuest - Unacademy Clone",
+  "description": "A high-performance learning platform clone featuring course discovery, educator showcases, and a built-in Gemini-powered AI tutor for personalized learning assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
